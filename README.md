@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rajeev Krishna
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on new front-end projects based on my prior knowledge
+- 👋 Hello, I’m Rajeev Krishna
+- 👀 I am a sophomore
+- 🌱 I'm currently enhanching my frontend skills(HTML,CSS,Javascript)
+- 💞️ Also I am looking forward to contribute in new projects and in the open source world.
 - 📫 How to reach me you may have my Email: radzhivkrishna@gmail.com
 
 <!---
