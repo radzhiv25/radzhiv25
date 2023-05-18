@@ -1,5 +1,7 @@
 # Hello, I'm Rajeev Krishna 👋
 
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 ## About Me
 I am a passionate frontend developer with a strong focus on crafting engaging and intuitive user experiences. With 1 year of experience in the industry, I have honed my skills in HTML, CSS, and JavaScript to create visually appealing and interactive websites and web applications.
 
@@ -19,7 +21,6 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 
 ## Education
 - Bachelor of Technology in Computer Science : Medi-Caps University, 2020 - 2024
-- Class 1-12 : Prestige Public School, 2020(Passout)
 
 ## Interests
 - Keeping up with the latest frontend development trends and technologies
@@ -30,7 +31,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 ## Contact Me
 - Email: radzhivkrishna@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rajeevkrishna25/
-- Portfolio: Under progress but temporary https://rajeevkrishna.vercel.app/
+- Portfolio: Under progress but for temporary https://rajeevkrishna.vercel.app/
 - GitHub: https://github.com/radzhiv25/
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
