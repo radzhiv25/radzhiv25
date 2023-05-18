@@ -8,7 +8,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, NextJs, Tailwind, Bootstrap
-- **Version Control:** Git
+- **Version Control:** Git,Github
 - **Design Tools:** Figma, Webflow
 
 ## Work Experience
