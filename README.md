@@ -7,26 +7,34 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, NextJs, Tailwind, Bootstrap
-- **Version Control:** Git,Github
+- **Frameworks/Libraries:** React, NextJs, Tailwind, Astro
+- **Version Control:** Git, Github
 - **Design Tools:** Figma, Webflow
 
 ## Work Experience
 - As of now I contribute in Open source and build my own projects 
 
 ## Projects
-- Calendar : This is basically a space travel time calendar which helps to keep things in schedule.
-- Technologies : HTML, CSS and Webflow.
-- Contribution: I completely made this project with everything from scratch.
+### [Calendar](https://radzhiv25.github.io/Projects/Calendar/index.html)
+- This is basically a space travel time calendar which helps to keep things in schedule.
+- Technologies: HTML, CSS and Webflow.
+  
+### [Blog Node](https://astro-blog-node.vercel.app/)
+- A blog app which consists of News, Jobs and Events.
+- Technologies: Astro, TailwindCSS, Javascript and Framer.
+
+### [Portfolio](https://rajeevkrishna.vercel.app/)
+- A portfolio to portray me
+- Technologies: NextJs and TailwindCSS.
 
 ## Education
-- Bachelor of Technology in Computer Science : Medi-Caps University, 2020 - 2024
+- Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
 
 ## Interests
 - Keeping up with the latest frontend development trends and technologies
 - Exploring new design and UX/UI concepts
 - Continuous learning and personal growth
-- Learning about new tech devices especially mobiles and laptops
+- Learning about new tech devices, especially mobiles and laptops
 
 ## Contact Me
 - Email: radzhivkrishna@gmail.com
@@ -34,7 +42,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - Portfolio: Under progress but for temporary https://rajeevkrishna.vercel.app/
 - GitHub: https://github.com/radzhiv25/
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
+Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
 
 Let's build amazing user experiences together! 💪🚀
 
