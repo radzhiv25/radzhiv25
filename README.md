@@ -23,12 +23,17 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - A blog app which consists of News, Jobs and Events.
 - Technologies: Astro, TailwindCSS, Javascript and Framer.
 
+### [Keeper](https://keeper-woad-gamma.vercel.app/)
+- A notes app where you can create and delete note.
+- Technologies: ReactJs and TailwindCSS.
+
 ### [Portfolio](https://rajeevkrishna.vercel.app/)
-- A portfolio to portray me
-- Technologies: NextJs and TailwindCSS.
+- A portfolio to portray me and my projects.
+- Technologies: ReactJs, NextJs and TailwindCSS.
 
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
+- Current Grade: 8.16 CGPA
 
 ## Interests
 - Keeping up with the latest frontend development trends and technologies
@@ -38,6 +43,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 
 ## Contact Me
 - Email: radzhivkrishna@gmail.com
+- Twitter: https://www.twitter.com/RadzhivDev
 - LinkedIn: https://www.linkedin.com/in/rajeevkrishna25/
 - Portfolio: Under progress but for temporary https://rajeevkrishna.vercel.app/
 - GitHub: https://github.com/radzhiv25/
