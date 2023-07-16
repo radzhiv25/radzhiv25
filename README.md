@@ -6,10 +6,11 @@
 I am a passionate frontend developer with a strong focus on crafting engaging and intuitive user experiences. With 1 year of experience in the industry, I have honed my skills in HTML, CSS, and JavaScript to create visually appealing and interactive websites and web applications.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** C++, HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, NextJs, Tailwind, Astro
 - **Version Control:** Git, Github
-- **Design Tools:** Figma, Webflow
+- **Design Tools:** VS Code, Figma, Webflow
+- **Other:** UI/UX(beginner), Data Structures and Algorithms
 
 ## Work Experience
 - As of now I contribute in Open source and build my own projects 
