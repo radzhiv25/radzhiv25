@@ -32,6 +32,11 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - A portfolio to portray me and my projects.
 - Technologies: ReactJs, NextJs and TailwindCSS.
 
+### [Go Gutch](https://go-gutch.vercel.app/)
+- A splitwise based clone (under works 🚧)
+- Collaboration with [Aditya](https://github.com/OneEyedDragon1102)
+- Technologies: ReactJs, TailwindCSS 
+
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
 - Current Grade: 8.16 CGPA
