@@ -20,9 +20,9 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - This is basically a space travel time calendar which helps to keep things in schedule.
 - Technologies: HTML, CSS and Webflow.
   
-### [Blog Node](https://astro-blog-node.vercel.app/)
-- A blog app which consists of News, Jobs and Events.
-- Technologies: Astro, TailwindCSS, Javascript and Framer.
+### [Pixus Numia](https://pixus-numia.vercel.app/)
+- A clone website [numia](https://numia.xyz).
+- Technologies: HTML, TailwindCSS, Javascript.
 
 ### [Keeper](https://keeper-woad-gamma.vercel.app/)
 - A notes app where you can create and delete note.
@@ -31,11 +31,6 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 ### [Portfolio](https://rajeevkrishna.vercel.app/)
 - A portfolio to portray me and my projects.
 - Technologies: ReactJs, NextJs and TailwindCSS.
-
-### [Go Gutch](https://go-gutch.vercel.app/)
-- A splitwise based clone (under works 🚧)
-- Collaboration with [Aditya](https://github.com/OneEyedDragon1102)
-- Technologies: ReactJs, TailwindCSS 
 
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
@@ -52,7 +47,6 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - Twitter: https://www.twitter.com/RadzhivDev
 - LinkedIn: https://www.linkedin.com/in/rajeevkrishna25/
 - Portfolio: Under progress but for temporary https://rajeevkrishna.vercel.app/
-- GitHub: https://github.com/radzhiv25/
 
 Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
 
