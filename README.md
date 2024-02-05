@@ -9,8 +9,8 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - **Languages:** C++, HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React, NextJs, Tailwind, Astro
 - **Version Control:** Git, Github
-- **Design Tools:** VS Code, Figma, Webflow
-- **Other:** UI/UX(beginner), Data Structures and Algorithms
+- **Design Tools:** Figma, Webflow
+- **Other:** UI/UX(Beginner), Data Structures and Algorithms(Beginner)
 
 ## Work Experience
 - As of now I contribute in Open source and build my own projects 
@@ -31,6 +31,10 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 ### [Portfolio](https://rajeevkrishna.vercel.app/)
 - A portfolio to portray me and my projects.
 - Technologies: ReactJs, NextJs and TailwindCSS.
+
+### [Notion Clone](https://beta-notion-clone.vercel.app/)
+- A notion landing page clone
+- Technologies: ReactJs and TailwindCSS.
 
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
