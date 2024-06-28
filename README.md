@@ -6,15 +6,15 @@
 I am a passionate frontend developer with a strong focus on crafting engaging and intuitive user experiences. With 1 year of experience in the industry, I have honed my skills in HTML, CSS, and JavaScript to create visually appealing and interactive websites and web applications.
 
 ## Skills
-- **Languages:** C++, HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, NextJs, Tailwind, Astro
+- **Languages:** C++, HTML, CSS, JavaScript, Python
+- **Frameworks/Libraries:** React, NextJs, TailwindCSS, Astro
 - **Version Control:** Git, Github
 - **Design Tools:** Figma, Webflow
 - **Other:** UI/UX(Beginner), Data Structures and Algorithms(Beginner)
 
 ## Work Experience
-- As of now I contribute in Open source and build my own projects 
 
+ 
 ## Projects
 ### [Calendar](https://radzhiv25.github.io/Projects/Calendar/index.html)
 - This is basically a space travel time calendar which helps to keep things in schedule.
@@ -32,13 +32,10 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - A portfolio to portray me and my projects.
 - Technologies: ReactJs, NextJs and TailwindCSS.
 
-### [Notion Clone](https://beta-notion-clone.vercel.app/)
-- A notion landing page clone
-- Technologies: ReactJs and TailwindCSS.
 
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
-- Current Grade: 8.16 CGPA
+- Current Grade: 8.3 CGPA
 
 ## Interests
 - Keeping up with the latest frontend development trends and technologies
