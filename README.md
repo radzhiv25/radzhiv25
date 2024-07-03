@@ -47,7 +47,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - Email: radzhivkrishna@gmail.com
 - Twitter: https://www.twitter.com/RadzhivDev
 - LinkedIn: https://www.linkedin.com/in/rajeevkrishna25/
-- Portfolio: Under progress but for temporary https://rajeevkrishna.vercel.app/
+- Portfolio: [Under progress](https://radzhivkrishna.vercel.app) but for temporary https://rajeevkrishna.vercel.app/
 
 Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
 
