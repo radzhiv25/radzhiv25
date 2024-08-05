@@ -10,7 +10,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - **Frameworks/Libraries:** React, NextJs, TailwindCSS, Astro
 - **Version Control:** Git, Github
 - **Design Tools:** Figma, Webflow
-- **Other:** UI/UX(Beginner), Data Structures and Algorithms(Beginner)
+- **Other:** UI/UX(Beginner), VSCode
 
 ## Work Experience
 
@@ -24,7 +24,7 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - A clone website [numia](https://numia.xyz).
 - Technologies: HTML, TailwindCSS, Javascript.
 
-### [Keeper](https://keeper-woad-gamma.vercel.app/)
+### [Task Manager](https://alpha-task-manager.vercel.app/)
 - A notes app where you can create and delete note.
 - Technologies: ReactJs and TailwindCSS.
 
