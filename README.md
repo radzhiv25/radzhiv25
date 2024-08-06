@@ -11,9 +11,6 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 - **Version Control:** Git, Github
 - **Design Tools:** Figma, Webflow
 - **Other:** UI/UX(Beginner), VSCode
-
-## Work Experience
-
  
 ## Projects
 ### [Calendar](https://radzhiv25.github.io/Projects/Calendar/index.html)
