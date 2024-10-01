@@ -7,28 +7,27 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 
 ## Skills
 - **Languages:** C++, HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries:** React, NextJs, TailwindCSS, Astro
+- **Frameworks/Libraries:** React, NextJs, TailwindCSS, ChartJS
 - **Version Control:** Git, Github
 - **Design Tools:** Figma, Webflow
-- **Other:** UI/UX(Beginner), VSCode
+- **Other:** UI/UX, Vercel, Firebase
  
 ## Projects
-### [Calendar](https://radzhiv25.github.io/Projects/Calendar/index.html)
-- This is basically a space travel time calendar which helps to keep things in schedule.
-- Technologies: HTML, CSS and Webflow.
-  
-### [Pixus Numia](https://pixus-numia.vercel.app/)
-- A clone website [numia](https://numia.xyz).
-- Technologies: HTML, TailwindCSS, Javascript.
-
 ### [Task Manager](https://alpha-task-manager.vercel.app/)
 - A notes app where you can create and delete note.
 - Technologies: ReactJs and TailwindCSS.
 
-### [Portfolio](https://rajeevkrishna.vercel.app/)
-- A portfolio to portray me and my projects.
-- Technologies: ReactJs, NextJs and TailwindCSS.
+### [PennWise](https://pennwise.vercel.app/)
+- An expense tracker for your daily needs.
+- Technologies: ReactJs, TailwindCSS and ChartJS.
 
+### [NewsX](https://newsx-radzhiv.web.app)
+- A news app to see daily news.
+- Technologies: ReactJs, TailwindCSS, Axios, GnewsAPI, v0.
+
+### [Space Admin](https://beta-space-admin.vercel.app)
+- A dashboard to checkout latest SpaceX launches.
+- Technologies: NextJS, TailwindCSS, Axios, SpaceX API, Oauth.
 
 ## Education
 - Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
