@@ -48,6 +48,8 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 
 Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
 
-Let's build amazing user experiences together! 💪🚀
+Let's build amazing user experiences together! 💪 🚀
+
+![](https://komarev.com/ghpvc/?username=radzhiv25&color=blue)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=radzhiv25&theme=dark&border_radius=5)](https://git.io/streak-stats)
