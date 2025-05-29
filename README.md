@@ -7,10 +7,10 @@ I am a passionate frontend developer with a strong focus on crafting engaging an
 
 ## Skills
 - **Languages:** C++, HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries:** React, NextJs, TailwindCSS, ChartJS
+- **Frameworks/Libraries:** React, NextJs, TailwindCSS, ChartJS, Capacitors,
 - **Version Control:** Git, Github
-- **Design Tools:** Figma, Webflow
-- **Other:** UI/UX, Vercel, Firebase
+- **Design Tools:** Figma, Webflow, Xcode, Android Studio
+- **Other:** UI/UX, Vercel, Firebase, v0
  
 ## Projects
 ### [Task Manager](https://alpha-task-manager.vercel.app/)
