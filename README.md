@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ## About Me
-I am a passionate frontend developer with a strong focus on crafting engaging and intuitive user experiences. With 1 year of experience in the industry, I have honed my skills in HTML, CSS, and JavaScript to create visually appealing and interactive websites and web applications.
+I am a passionate frontend developer with a strong focus on crafting engaging and intuitive user experiences. With 1 year of experience in the industry, I have honed my skills in React, NextJs, Tailwind and Component libraries in addition to this Capacitors for mobile based applications to create visually appealing and interactive websites and web applications.
 
 ## Skills
 - **Languages:** C++, HTML, CSS, JavaScript, Python
