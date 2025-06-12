@@ -2,52 +2,76 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-## About Me
-I am a passionate frontend developer with a strong focus on crafting engaging and intuitive user experiences. With 1 year of experience in the industry, I have honed my skills in React, NextJs, Tailwind and Component libraries in addition to this Capacitors for mobile based applications to create visually appealing and interactive websites and web applications.
+## 👨‍💻 About Me
+I am a frontend-focused full-stack developer with experience building intuitive and responsive web and mobile apps. Over the past year, I've worked on both industry and academic projects involving React, Next.js, TailwindCSS, and Capacitor, while expanding into backend integrations and AI-enabled tools. Currently, I am working on cross-platform projects deployed in South Africa and New Zealand.
 
-## Skills
-- **Languages:** C++, HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries:** React, NextJs, TailwindCSS, ChartJS, Capacitors,
-- **Version Control:** Git, Github
-- **Design Tools:** Figma, Webflow, Xcode, Android Studio
-- **Other:** UI/UX, Vercel, Firebase, v0
- 
-## Projects
-### [Task Manager](https://alpha-task-manager.vercel.app/)
-- A notes app where you can create and delete note.
-- Technologies: ReactJs and TailwindCSS.
+## 🔧 Skills
 
-### [PennWise](https://pennwise.vercel.app/)
-- An expense tracker for your daily needs.
-- Technologies: ReactJs, TailwindCSS and ChartJS.
+- **Languages:** JavaScript, Python, C++, HTML/CSS, SQL, Swift  
+- **Frameworks/Libraries:** React, Next.js, TailwindCSS, Capacitor, Chart.js, TensorFlow, Keras, Streamlit  
+- **Mobile & UI:** SwiftUI, React Native, Figma, Webflow, Framer  
+- **Backend & DevOps:** Node.js, Express, Firebase, AWS, Postman  
+- **Tools & Platforms:** Git, GitHub, VS Code, Xcode, Vercel, Deep Learning  
 
-### [NewsX](https://newsx-radzhiv.web.app)
-- A news app to see daily news.
-- Technologies: ReactJs, TailwindCSS, Axios, GnewsAPI, v0.
+## 💼 Experience
 
-### [Space Admin](https://beta-space-admin.vercel.app)
-- A dashboard to checkout latest SpaceX launches.
-- Technologies: NextJS, TailwindCSS, Axios, SpaceX API, Oauth.
+### 🔹 Frontend Developer, **Vidyayatan Technologies** (Dec 2024 – Present)
+- Developed Home Review app deployed in South Africa & New Zealand
+- Ensured cross-platform UX using **Next.js** and **Capacitor**
 
-## Education
-- Bachelor of Technology in Computer Science: Medi-Caps University, 2020 - 2024
-- Current Grade: 8.3 CGPA
+### 🔹 Frontend Engineer, **NexusDevOps** (July 2024 – Present)
+- Built responsive UIs for Drive, User Profile, and IDE pages
+- Integrated cloud services & backend APIs with strong focus on scalability
 
-## Interests
-- Keeping up with the latest frontend development trends and technologies
-- Exploring new design and UX/UI concepts
-- Continuous learning and personal growth
-- Learning about new tech devices, especially mobiles and laptops
+### 🔹 Web Developer Intern, **JoinDevOps** (Mar – May 2024)
+- Built interactive features like **geolocation tagging** and enhanced site automation
 
-## Contact Me
-- Email: radzhivkrishna@gmail.com
-- Twitter: https://www.twitter.com/RadzhivDev
-- LinkedIn: https://www.linkedin.com/in/rajeevkrishna25/
-- Portfolio: [Under progress](https://radzhiv.vercel.app) but for temporary https://rajeevkrishna.vercel.app/
+### 🔹 Intern, **IMPETUS** (Aug – Oct 2023)
+- Created 5+ responsive UIs using React and Tailwind, improving development speed by 25%
 
-Feel free to reach out to me if you have any questions, or collaboration opportunities, or just want to connect! I'm always open to new challenges and exciting projects.
+## 🚀 Projects
 
-Let's build amazing user experiences together! 💪 🚀
+### 🗂️ [Task Manager](https://alpha-task-manager.vercel.app/)
+- A note-taking app with local storage support.
+- **Tech:** React, TailwindCSS, GitHub  
+[Source Code](https://github.com/radzhiv25/task-manager)
+
+### 💰 [PennWise](https://pennwise.vercel.app/)
+- An expense tracker with graphical insights via Chart.js.
+- **Tech:** React, TailwindCSS, ChartJS, GitHub  
+[Source Code](https://github.com/radzhiv25/expense-tracker)
+
+### 📰 [NewsX](https://newsx-radzhiv.web.app)
+- Live news updates using GNews API.
+- **Tech:** React, Tailwind, Axios, v0
+
+### 🚀 [Space Admin](https://beta-space-admin.vercel.app)
+- Dashboard to explore SpaceX launch data.
+- **Tech:** Next.js, TailwindCSS, OAuth, SpaceX API
+
+### 🌱 [Potato Leaf Analyzer](https://potato-leaf-analyzer.streamlit.app/)
+- Leaf disease detection using deep learning and Streamlit.
+- **Tech:** Python, TensorFlow, Keras, Streamlit  
+[Source Code](https://github.com/radzhiv25/potata-leaf-disease-detection)
+
+## 🎓 Education
+- **B.Tech in Computer Science**, Medi-Caps University (2020 – 2024)  
+  CGPA: 8.3/10
+
+## 🏆 Certifications & Achievements
+- NCC A Certification – Leadership & discipline training
+- Google UX Design Specialization – 2/8 Courses completed
+- Meta iOS Specialization – 2/12 Courses completed
+- Hackathon participant at **MLH** and **Global Hack Weeks**
+
+## 📫 Let's Connect
+- 📧 Email: [rajeevkrishna.work@gmail.com](mailto:rajeevkrishna.work@gmail.com)  
+- 🐦 Twitter: [@RadzhivDev](https://www.twitter.com/RadzhivDev)  
+- 💼 LinkedIn: [linkedin.com/in/rajeevkrishna25](https://www.linkedin.com/in/rajeevkrishna25/)  
+- 🌐 Portfolio: [https://radzhiv.vercel.app](https://radzhiv.vercel.app)  
+- 💻 GitHub: [github.com/radzhiv25](https://github.com/radzhiv25)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=radzhiv25&color=blue)
 
