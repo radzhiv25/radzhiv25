@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ## 👨‍💻 About Me
-I am a frontend-focused full-stack developer with experience building intuitive and responsive web and mobile apps. Over the past year, I've worked on both industry and academic projects involving React, Next.js, TailwindCSS, and Capacitor, while expanding into backend integrations and AI-enabled tools. Currently, I am working on cross-platform projects deployed in South Africa and New Zealand.
+I am a frontend-focused full-stack developer with experience building intuitive and responsive web and mobile apps. Over the past year, I've worked on both industry and academic projects involving React, Next.js, TailwindCSS, and Capacitor, while expanding into backend integrations and AI-enabled tools. Currently, I am working on cross-platform projects deployed in South Africa and New Zealand (Home Review and Labour Link)
 
 ## 🔧 Skills
 
