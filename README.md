@@ -31,11 +31,6 @@ I am a frontend-focused full-stack developer with experience building intuitive 
 
 ## 🚀 Projects
 
-### 🗂️ [Task Manager](https://alpha-task-manager.vercel.app/)
-- A note-taking app with local storage support.
-- **Tech:** React, TailwindCSS, GitHub  
-[Source Code](https://github.com/radzhiv25/task-manager)
-
 ### 💰 [PennWise](https://pennwise.vercel.app/)
 - An expense tracker with graphical insights via Chart.js.
 - **Tech:** React, TailwindCSS, ChartJS, GitHub  
@@ -44,10 +39,6 @@ I am a frontend-focused full-stack developer with experience building intuitive 
 ### 📰 [NewsX](https://newsx-radzhiv.web.app)
 - Live news updates using GNews API.
 - **Tech:** React, Tailwind, Axios, v0
-
-### 🚀 [Space Admin](https://beta-space-admin.vercel.app)
-- Dashboard to explore SpaceX launch data.
-- **Tech:** Next.js, TailwindCSS, OAuth, SpaceX API
 
 ### 🌱 [Potato Leaf Analyzer](https://potato-leaf-analyzer.streamlit.app/)
 - Leaf disease detection using deep learning and Streamlit.
