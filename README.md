@@ -54,13 +54,13 @@ I am a frontend-focused full-stack developer with experience building intuitive 
 - Google UX Design Specialization – 2/8 Courses completed
 - Meta iOS Specialization – 2/12 Courses completed
 - Hackathon participant at **MLH** and **Global Hack Weeks**
+- Participated in Appwrite Hackathon (#SitesHack2025) - created 3 projects: [StackMeme](https://stackmeme.appwrite.network) , [Finboard](https://finboard.appwrite.network) , [CodeCache](https://codecache.appwrite.network)
 
 ## 📫 Let's Connect
 - 📧 Email: [rajeevkrishna.work@gmail.com](mailto:rajeevkrishna.work@gmail.com)  
-- 🐦 Twitter: [@RadzhivDev](https://www.twitter.com/RadzhivDev)  
+- 🐦 Twitter: [@RadzhivDev](https://www.x.com/RadzhivDev)  
 - 💼 LinkedIn: [linkedin.com/in/rajeevkrishna25](https://www.linkedin.com/in/rajeevkrishna25/)  
-- 🌐 Portfolio: [https://radzhiv.vercel.app](https://radzhiv.vercel.app)  
-- 💻 GitHub: [github.com/radzhiv25](https://github.com/radzhiv25)
+- 🌐 Portfolio: [https://radzhiv.dev](https://radzhiv.dev)  
 
 ---
 
