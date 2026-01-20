@@ -15,18 +15,18 @@ I am a frontend-focused full-stack developer with experience building intuitive 
 
 ## 💼 Experience
 
-### 🔹 Frontend Developer, **Vidyayatan Technologies** (Dec 2024 – Present)
+### 🔹 Frontend Developer, **Vidyayatan Technologies** (Dec 2024 – Dec 2025)
 - Developed Home Review app deployed in South Africa & New Zealand
 - Ensured cross-platform UX using **Next.js** and **Capacitor**
 
-### 🔹 Frontend Engineer, **NexusDevOps** (July 2024 – Present)
+### 🔹 Frontend Engineer, **NexusDevOps** (July 2024 – Dec 2025)
 - Built responsive UIs for Drive, User Profile, and IDE pages
 - Integrated cloud services & backend APIs with strong focus on scalability
 
-### 🔹 Web Developer Intern, **JoinDevOps** (Mar – May 2024)
+### 🔹 Web Developer Intern, **JoinDevOps** (Mar 2024 – May 2024)
 - Built interactive features like **geolocation tagging** and enhanced site automation
 
-### 🔹 Intern, **IMPETUS** (Aug – Oct 2023)
+### 🔹 Intern, **IMPETUS** (Aug 2023 – Oct 2023)
 - Created 5+ responsive UIs using React and Tailwind, improving development speed by 25%
 
 ## 🚀 Projects
