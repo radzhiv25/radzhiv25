@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** with full-stack capabilities, specializing in building responsive web and mobile applications. Currently working at **Vidyayatan Technologies** in Bhopal, where I develop and maintain tenant management systems and mobile apps deployed across international markets.
+I'm a **Frontend Developer** with full-stack capabilities, specializing in building responsive web and mobile applications. Previously worked at **Vidyayatan Technologies** in Bhopal, where I develop and maintain tenant management systems and mobile apps deployed across international markets.
 
 I'm passionate about creating intuitive user experiences using modern frameworks like React and Next.js, while integrating backend services and AI-powered features to build scalable, user-centric applications.
 
