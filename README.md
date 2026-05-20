@@ -62,24 +62,33 @@ Figma • Webflow • Framer
 
 ### 🧭 [PathWise](https://github.com/radzhiv25/pathwise) | *Career Guidance Platform*
 **Tech Stack:** Next.js • Claude API • Supabase • tRPC • Drizzle ORM
-
 - Built a career guidance platform with a responsive, component-based UI using Next.js
-- Integrated Claude API to generate personalized career recommendations based on user inputs
+- Integrated Claude API to generate personalized career recommendations based on structured user inputs
 - Implemented authentication and data handling with Supabase, tRPC, and Drizzle ORM
 
-### 💻 [CodeCache](https://codecache.appwrite.network) | *Code Snippet Manager*
-**Tech Stack:** React • Tailwind CSS • Appwrite • TypeScript
-
-- Created a code snippet management app with tagging, filtering, and search functionality
-- Manages **100+ saved snippets** efficiently with secure public/private sharing
-- Integrated Appwrite for authentication, database management, and real-time syncing
+---
 
 ### 💰 [PennWise](https://pennwise.vercel.app/) | *Personal Finance Tracker*
-**Tech Stack:** React • Supabase • ShadCn • Chart.js
-
+**Tech Stack:** React • Supabase • ShadCN • Chart.js
 - Designed a clean, responsive personal finance tracking interface
 - Visualized income and expense data across multiple monthly views using Chart.js
 - Implemented Supabase authentication with real-time, user-specific data storage
+
+---
+
+### 💧 [Hydroloop](https://github.com/radzhiv25/hydroloop) | *Hydration Tracker*
+**Tech Stack:** Next.js • Node.js • Recharts • Commander.js • Tailwind CSS
+- Built a hydration tracker with a Next.js web dashboard and a Node.js CLI for terminal-based logging
+- Visualized intake data using Recharts with **5 chart types** and customizable color palettes
+- Implemented a background daemon with desktop notifications, streak tracking, and audio reminders
+
+---
+
+### 🔗 [Shrtnr](https://github.com/radzhiv25/shrtnr) | *URL Shortener*
+**Tech Stack:** Next.js • Neon PostgreSQL • Upstash Redis • NextAuth
+- Built a URL shortening service with custom slugs and configurable expiration (1–30 days)
+- Implemented Redis caching via Upstash for sub-millisecond redirect lookups, reducing database load
+- Designed a click analytics system tracking visitor metadata (IP, user agent, referrer) in Neon PostgreSQL
 
 ---
 
